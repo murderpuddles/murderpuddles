@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @murderpuddles ] @psychopuddles 
-- 👀 I’m interested in ... Contributing
-- 🌱 I’m currently learning ... Scrpting, coding, ect.
-- 💞️ I’m looking to collaborate on ... BL3 Mods / Cabinets 
-- 📫 How to reach me ... psychopuddle@gmail.com
-Discord: murderpuddle#6409 Steam: Snugglepuppys
-<!---
-murderpuddles/murderpuddles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @murderpuddles and @psychopuddles on GitHub
+- I’m interested in Contributing to BL3 mods wikis or anyway I am able.
+- I’m currently learning how to do this but am stubborn enough to figure it out
+- I’m looking to collaborate on BL3 or anything I am able to do
+- Email me at: psychopuddle@gmail.com
+- Discord: murderpuddle#6409 and Steam: Snugglepuppys
